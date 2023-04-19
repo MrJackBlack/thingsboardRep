@@ -1,0 +1,153 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "08d5c1e0-d506-11ed-9d78-bb2626b46a8b"
+    },
+    "externalId" : null,
+    "firmwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "bcdb70d0-d912-11ed-b747-3d2284eff4f2"
+    },
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "c85355c0-d509-11ed-9d78-bb2626b46a8b"
+    },
+    "label" : "",
+    "name" : "Jack's Device",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "default"
+  },
+  "credentials" : {
+    "credentialsId" : "8TKPfw0hww7V33WLTZkW",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1681286799735,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_id",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "bcdb70d0-d912-11ed-b747-3d2284eff4f2"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1681286799735,
+      "longValue" : 1681286799583,
+      "strValue" : null
+    }, {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isAlarm",
+      "lastUpdateTs" : 1681206591241,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1681286168081,
+      "longValue" : 1681286166425,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1681115681888,
+      "longValue" : null,
+      "strValue" : "39.98426"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1681115690704,
+      "longValue" : null,
+      "strValue" : "116.32177"
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_checksum",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "edfe157e70ee3252de1dcc50da8cc686d1c7c1600b56deb718781d70555c8bd7"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_checksum_algorithm",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "SHA256"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_size",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : 1324,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_tag",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "JackDevicePackage 1.1"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_title",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "JackDevicePackage"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_version",
+      "lastUpdateTs" : 1681291028586,
+      "longValue" : null,
+      "strValue" : "1.1"
+    } ]
+  }
+}

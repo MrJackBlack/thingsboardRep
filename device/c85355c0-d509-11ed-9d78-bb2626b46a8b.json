@@ -99,6 +99,14 @@
       "lastUpdateTs" : 1681115690704,
       "longValue" : null,
       "strValue" : "116.32177"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "test2",
+      "lastUpdateTs" : 1681892364427,
+      "longValue" : null,
+      "strValue" : "dd"
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
